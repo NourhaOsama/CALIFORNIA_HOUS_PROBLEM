@@ -1,0 +1,12 @@
+This dataset is based on data from the 1990 California Census, and incluides metrics such as the population, median income, and median housing proice for each block group in California.
+
+Block groups are the smallest geographical unit for which the US Census Bureau publishes sample data., and each block typically has between 600 to 3000 people.
+
+
+
+. showing the best area for housing 
+. showing the lower and the lowest incom for housing in any area
+. showing the lowest and highest hosing value 
+. showing How the age of the any house can affected in the value and 
+    what the best average income to buy a special house
+.
